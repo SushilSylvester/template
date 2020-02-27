@@ -148,7 +148,6 @@
     0% {
         -moz-transform: rotate(0deg)
     }
-
     100% {
         -moz-transform: rotate(359deg)
     }
@@ -158,7 +157,6 @@
     0% {
         -webkit-transform: rotate(0deg)
     }
-
     100% {
         -webkit-transform: rotate(359deg)
     }
@@ -168,7 +166,6 @@
     0% {
         -o-transform: rotate(0deg)
     }
-
     100% {
         -o-transform: rotate(359deg)
     }
@@ -178,7 +175,6 @@
     0% {
         -ms-transform: rotate(0deg)
     }
-
     100% {
         -ms-transform: rotate(359deg)
     }
@@ -188,7 +184,6 @@
     0% {
         transform: rotate(0deg)
     }
-
     100% {
         transform: rotate(359deg)
     }

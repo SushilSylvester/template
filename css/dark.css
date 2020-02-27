@@ -1852,7 +1852,6 @@ body #side-panel.dark #side-panel-trigger-close a {
     .dark .nav-tabs.nav-justified>li>a {
         border-bottom-color: rgba(255, 255, 255, .15)
     }
-
     .dark .nav-tabs.nav-justified>.active>a,
     .dark .nav-tabs.nav-justified>.active>a:hover,
     .dark .nav-tabs.nav-justified>.active>a:focus {
@@ -1870,7 +1869,6 @@ body #side-panel.dark #side-panel-trigger-close a {
     .dark .nav-tabs-justified>li>a {
         border-bottom-color: rgba(255, 255, 255, .15)
     }
-
     .dark .nav-tabs-justified>.active>a,
     .dark .nav-tabs-justified>.active>a:hover,
     .dark .nav-tabs-justified>.active>a:focus {
@@ -1948,19 +1946,16 @@ body #side-panel.dark #side-panel-trigger-close a {
     .dark .navbar-default .navbar-nav .open .dropdown-item {
         color: #bbb
     }
-
     .dark .navbar-default .navbar-nav .open .dropdown-item:hover,
     .dark .navbar-default .navbar-nav .open .dropdown-item:focus {
         color: #eee
     }
-
     .dark .navbar-default .navbar-nav .open .dropdown-item.active,
     .dark .navbar-default .navbar-nav .open .dropdown-item.active:hover,
     .dark .navbar-default .navbar-nav .open .dropdown-item.active:focus {
         background-color: rgba(0, 0, 0, .25);
         color: #eee
     }
-
     .dark .navbar-default .navbar-nav .open .dropdown-item.disabled,
     .dark .navbar-default .navbar-nav .open .dropdown-item.disabled:hover,
     .dark .navbar-default .navbar-nav .open .dropdown-item.disabled:focus {
@@ -2113,7 +2108,7 @@ body #side-panel.dark #side-panel-trigger-close a {
     background-color: #faf2cc
 }
 
-.dkark a.list-group-item-warning.active,
+.dark a.list-group-item-warning.active,
 .dark a.list-group-item-warning.active:hover,
 .dark a.list-group-item-warning.active:focus {
     color: #fff;
@@ -2250,13 +2245,11 @@ body #side-panel.dark #side-panel-trigger-close a {
 }
 
 @media(max-width:991px) {
-
     .dark .postcontent,
     .dark .postcontent.bothsidebar,
     .dark .sidebar {
         border-bottom-color: rgba(255, 255, 255, .1)
     }
-
     .dark #header.transparent-header,
     .dark #header.semi-transparent,
     #header.dark.transparent-header,
@@ -2264,11 +2257,9 @@ body #side-panel.dark #side-panel-trigger-close a {
         background-color: #333;
         border-bottom-color: rgba(255, 255, 255, .1)
     }
-
     body:not(.primary-menu-open) #header.dark.semi-transparent.transparent-header-responsive {
         background-color: rgba(0, 0, 0, .6)
     }
-
     .dark #primary-menu.mobile-menu-off-canvas:not(.not-dark)>ul,
     .dark #primary-menu.mobile-menu-off-canvas:not(.not-dark)>div>ul,
     #primary-menu.mobile-menu-off-canvas.dark>ul,
@@ -2276,7 +2267,6 @@ body #side-panel.dark #side-panel-trigger-close a {
         background-color: #333;
         border-right: 1px solid rgba(255, 255, 255, .05) !important
     }
-
     .dark #primary-menu.mobile-menu-off-canvas.from-right:not(.not-dark)>ul,
     .dark #primary-menu.mobile-menu-off-canvas.from-right:not(.not-dark)>div>ul,
     #primary-menu.mobile-menu-off-canvas.from-right.dark>ul,
@@ -2284,7 +2274,6 @@ body #side-panel.dark #side-panel-trigger-close a {
         border-right: 0 !important;
         border-left: 1px solid rgba(255, 255, 255, .05) !important
     }
-
     .dark #primary-menu:not(.not-dark) ul li,
     .dark #primary-menu:not(.not-dark) ul ul,
     .dark #primary-menu:not(.not-dark) ul li .mega-menu-content,
@@ -2297,12 +2286,10 @@ body #side-panel.dark #side-panel-trigger-close a {
     .dark #primary-menu:not(.not-dark) ul li .mega-menu-content.style-2 li {
         border-top-color: rgba(255, 255, 255, .1) !important
     }
-
     .dark #primary-menu:not(.not-dark)>ul>li.sub-menu>a,
     .dark #primary-menu:not(.not-dark)>.container>ul>li.sub-menu>a {
         background-image: url(../images/icons/submenu-dark.png)
     }
-
     body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu ul li,
     body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu ul ul,
     body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu ul li .mega-menu-content,
@@ -2315,14 +2302,12 @@ body #side-panel.dark #side-panel-trigger-close a {
     body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu ul li .mega-menu-content.style-2 li {
         border-top-color: #eee !important
     }
-
     body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu>ul>li:hover a,
     body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu>ul>li.current a,
     body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu>div>ul>li:hover a,
     body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu>div>ul>li.current a {
         color: #1abc9c !important
     }
-
     body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu ul ul a,
     body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu>ul>li:hover ul a,
     body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu>ul>li.current ul a,
@@ -2330,7 +2315,6 @@ body #side-panel.dark #side-panel-trigger-close a {
     body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu>div>ul>li.current ul a {
         color: #444 !important
     }
-
     .dark .pricing-box.pricing-extended .pricing-action-area {
         border-top-color: rgba(255, 255, 255, .15)
     }
